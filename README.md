@@ -1,6 +1,7 @@
 # Git-Instruction
  记录一些简单的Git指令。
-> 视频参考：[『教程』简单明了的Git入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cr4y1J7iQ/?spm_id_from=333.999.0.0&vd_source=634d4166b4296f4cdff1ef1c67559a55)
+> 视频参考：[『教程』简单明了的Git入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cr4y1J7iQ/?spm_id_from=333.999.0.0&vd_source=634d4166b4296f4cdff1ef1c67559a55)  
+> Github链接：https://github.com/JeremyChim/Git-Instruction
 
 ## 用户名
 
