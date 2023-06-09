@@ -34,3 +34,5 @@
 ## 准备提交（工作区里的指定文件）
 
 > git add README.md
+
+使用Github Deaktop提交的时候，请务必去除大文件，否则Git仓库会变得很大。切记！切记！
